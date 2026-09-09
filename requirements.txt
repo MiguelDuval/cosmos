@@ -1,0 +1,2 @@
+# ComfyUI Portable already provides torch, numpy and Pillow.
+# This node uses only Python standard-library HTTP/base64 modules in addition to ComfyUI.
